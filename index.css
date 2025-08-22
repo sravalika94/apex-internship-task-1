@@ -1,0 +1,27 @@
+
+
+h2{
+  font-size: 40px;
+  color: rgb(33, 105, 183);
+  text-transform: capitalize;
+   
+}
+p {
+  color: rgb(1, 24, 12);              /* Text color */
+  background-color: rgb(10, 170, 188); /* Background color */
+  font-size: 20px;
+  display:inline-block;
+  padding:5px;
+}
+img {
+display :block;
+margin:auto;
+width:300px;
+
+}
+button{
+    display: block;
+    margin: 20px auto;
+    padding:10px 20px;
+    font-size:20px ;
+}
